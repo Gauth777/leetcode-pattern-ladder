@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0412-fizz-buzz/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Number Theory
@@ -27,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
