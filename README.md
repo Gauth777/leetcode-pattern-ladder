@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0412-fizz-buzz/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
