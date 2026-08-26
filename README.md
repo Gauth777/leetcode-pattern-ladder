@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
