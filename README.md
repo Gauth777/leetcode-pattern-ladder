@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1470-shuffle-the-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1470-shuffle-the-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
