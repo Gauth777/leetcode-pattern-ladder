@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1920-build-array-from-permutation/) | Easy |
