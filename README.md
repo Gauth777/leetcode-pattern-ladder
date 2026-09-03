@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0412-fizz-buzz/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Simulation
@@ -60,4 +61,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
