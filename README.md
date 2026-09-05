@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -72,9 +75,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
