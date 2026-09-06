@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -74,12 +75,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
