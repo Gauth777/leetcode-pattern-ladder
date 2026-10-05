@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Gauth777/leetcode-pattern-ladder/tree/main/1480-running-sum-of-1d-array/) | Easy |
